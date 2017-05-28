@@ -1,0 +1,12 @@
+{
+  "name": "adminpanel",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
